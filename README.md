@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐾🔭Wanderer of the cosmos, weaving constellations with words, pens and codes. I distill universes of data and algorithms, forging galaxies of knowledge.<br><br>💡I am a versatile and multifaceted human.<br><br>🔎My analytical journey began in my adolescence, when my unquestioned truths were challenged. From Aristotle, Kant and Hume, to statistics, Bayesian models and convolutional neural networks. <br><br>⌛️El the only asset I have is time, limited and in perpetual depreciation like Fiat currency. <br><br>🌎I am open and enthusiastic about collaborating in initiatives that promote transformations, expand horizons and enrich lives.
+🐾🔭Wanderer of the cosmos, weaving constellations with words, pens and codes. I distill universes of data and algorithms, forging galaxies of knowledge.<br><br>🔎My analytical journey began in my adolescence, when my unquestioned truths were challenged. From Aristotle, Kant and Hume, to statistics, Bayesian models and convolutional neural networks. <br><br>🌎I am open and enthusiastic about collaborating in initiatives that promote transformations, expand horizons and enrich lives.
 
 
 ## 🌐 Socials:
