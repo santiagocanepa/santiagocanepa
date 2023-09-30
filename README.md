@@ -1,11 +1,9 @@
-# 💫 About Me:
+` About Me`:
 
-🐾🔭Wanderer of the cosmos, weaving constellations with words, pens and codes. I distill universes of data and algorithms, forging galaxies of `knowledge`.
+🔭Wanderer of the cosmos, weaving constellations with words, pens and codes. I distill universes of data and algorithms, forging galaxies of `knowledge`.
+
 ```
-🔎My analytical journey began in my adolescence, when my unquestioned truths were challenged. From Aristotle, Kant and Hume, to statistics, Bayesian models and convolutional neural networks.
-```
-```
-🌎I am open and enthusiastic about collaborating in initiatives that promote transformations, expand horizons and enrich lives.
+I am open and enthusiastic about collaborating in initiatives that promote transformations, expand horizons and enrich lives.
 ```
 
 ## 🌐 Socials:
