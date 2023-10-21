@@ -1,9 +1,6 @@
 # About Me:
-
-🔭Wanderer of the cosmos, weaving constellations with words, pens and codes. I distill universes of data and algorithms, forging galaxies of `knowledge`.
-
 ```
-I am open and enthusiastic about collaborating in initiatives that promote transformations, expand horizons and enrich lives.
+🔭Wanderer of the cosmos, weaving constellations with words, pens and codes. I distill universes of data and algorithms, forging galaxies of `knowledge`.
 ```
 
 ## Socials:
